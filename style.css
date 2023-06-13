@@ -1,0 +1,33 @@
+.special:hover{
+    background-color: rgb(12, 170, 170) !important;
+}
+span{
+    background-color: gray;
+    color: gray ;
+    height: 5.1ex;
+    width: 5.1ex;
+    }
+button{
+    color: gray;
+    background-color: gray;
+    margin: 5px 5px;
+    height: 5.1ex;
+    width: 5.1ex;
+    border-width: 4px;
+    margin-left: 5px;
+}
+.special{
+    color: black !important;
+    background-color: aqua !important;
+    height: 5.1ex;
+    width: 10.2ex;
+    margin-bottom: 0px !important;
+    font-weight: bolder;
+    border-width: 5px;
+    border-color: black;
+}
+p{
+    margin-bottom: 0px !important;
+    width: 10.2ex;
+    height: 5.1 ex;
+}
